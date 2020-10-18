@@ -6,7 +6,6 @@ FiveM script :)
 ### FEEL FREE TO EDIT THE CODE FOR PERSONAL USE!
 ### DO NOT SHARE THE WORK AS YOUR OWN!
 ### DO NOT SELL THIS WORK!
-# -= FOR PERSONAL USE ONLY =-
 ### You are not allowed to modify the repository and re-release it, you can only fork it
 
 Je partage ici sur ce repo le travaille que je me suis consacrée ces derniers mois .Je me suis fait volé ces scripts
