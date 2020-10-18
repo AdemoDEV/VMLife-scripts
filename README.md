@@ -21,7 +21,7 @@ Video : https://streamable.com/wfs8o6
 
   
 MenuAdmin
-
+--Vous devriez installer Fivem-sql
 Video : https://youtu.be/UtteRRynKwI
 
        Fait avec mes propres soins + JIBRIL & YZK
