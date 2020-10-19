@@ -1,7 +1,7 @@
 Citizen.CreateThread(function()
     while true do
         local pPed = GetPlayerPed(-1)
-        local pCoords = GetEntityCoords(pPed)
+        local pCoords = GetEntityCoords(pPed)-----BY ADEMO
 		local openarmurie = false
 		local dst = GetDistanceBetweenCoords(pCoords, true)--ADEMO
         for k,v in pairs(config.armurie) do
@@ -78,7 +78,7 @@ function openArmurie()
                                 --TriggerServerEvent('Arme:item', weapon.price, weapon.label) 
                                 TriggerServerEvent('Arme:Item', weapon.label, weapon.Price, weapon.Name)
                             end --ADEMO
-                        end)
+                        end) -----BY ADEMO-----BY ADEMO
                     end
                 end)   
             end
