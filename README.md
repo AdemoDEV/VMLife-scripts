@@ -22,7 +22,7 @@ récemment je le partage donc avec vous
 ## Le discord de l'ACDN  : https://discord.gg/bPz8swn
 
 ## Le discord de leaks : https://discord.gg/FdXUDzD
-(pour avoir plus details et de script)
+(pour avoir plus details et de script 😉)
 --------------------------------------------------------------------------------------------------------------------
 
 #                                          Creation de persoonage ESX(pas terminé)
