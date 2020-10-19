@@ -1,10 +1,4 @@
-
-
-<p align="center">
-<a href="https://badgen.net/github/releases/AdemoDEV/VMLife-scripts"><img src="https://badgen.net/github/releases/AdemoDEV/VMLife-scripts" alt="license"></a> 
-</p>
-
-[![HitCount](http://hits.dwyl.com/AdemoDEV/VMLife-scripts.svg)](http://hits.dwyl.com/AdemoDEV/VMLife-scripts)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdemoDEV%2FVMLife-scripts&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 # VMLife-scripts
 
