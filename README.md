@@ -11,7 +11,10 @@ FiveM script :)
 Je partage ici sur ce repo le travaille que je me suis consacrée ces derniers mois .Je me suis fait volé ces scripts
 récemment je le partage donc avec vous 
 
-vidéo de présentation : 
+Vidéo de présentation : https://youtu.be/tZK4dY2ryrU
+Le discord de mon shops : https://discord.gg/wDtAnfd
+Le discord de leaks : https://discord.gg/FdXUDzD
+(pour avoir plus details et de script)
 --------------------------------------------------------------------------------------------------------------------
 
 #                                          Creation de persoonage ESX(pas terminé)
@@ -45,6 +48,6 @@ Video : https://streamable.com/2q4suz
 
 --------------------------------------------------------------------------------------------------------------------
 
-
+#Aucun support !
 
 Preuve que l'on a commencer Vmlife il y'a 3-4mois  : https://cdn.discordapp.com/attachments/745651508866973706/767694853713952768/unknown.png
