@@ -4,9 +4,7 @@
 <a href="https://badgen.net/github/releases/AdemoDEV/VMLife-scripts"><img src="https://badgen.net/github/releases/AdemoDEV/VMLife-scripts" alt="license"></a> 
 </p>
 
-<p align="center">
-  <a href="http://hits.dwyl.com/AdemoDEV/VMLife-scripts"><img src="http://hits.dwyl.com/AdemoDEV/VMLife-scripts.svg"      alt="license"></a> 
-</p>
+[![HitCount](http://hits.dwyl.com/AdemoDEV/VMLife-scripts.svg)](http://hits.dwyl.com/AdemoDEV/VMLife-scripts)
 
 # VMLife-scripts
 
