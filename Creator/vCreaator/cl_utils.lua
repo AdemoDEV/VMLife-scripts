@@ -80,6 +80,7 @@ function CreateSkinCam()
     SetCamShakeAmplitude(cam, 13.0)
     RenderScriptCams(1, 1, 1500, 1, 1)
 end
+---ADEMO YZK JIBRIL---ADEMO YZK JIBRIL---ADEMO YZK JIBRIL---ADEMO YZK JIBRIL
 
 function CreateSelected()
     cam = CreateCam("DEFAULT_SCRIPTED_CAMERA", 1)
