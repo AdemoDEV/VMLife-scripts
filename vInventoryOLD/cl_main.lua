@@ -947,7 +947,7 @@ function openMenu()
                             if Checked then
                                 SetTimecycleModifier('rply_contrast_neg')
                             else
-                                SetTimecycleModifier('')
+                                SetTimecycleModifier('')--FAIT PAR ADEMO LES FRRS
                             end
                         end 
                     end)
@@ -968,7 +968,7 @@ function openMenu()
 
                 ----------------------------------------------------------------------------------
 
-                RageUI.IsVisible(RMenu:Get('inventory', 'utils'), true, true, true, function()
+                RageUI.IsVisible(RMenu:Get('inventory', 'utils'), true, true, true, function()--AD-Y
                     players = {}
                     for _, player in ipairs(GetActivePlayers()) do
                         local ped = GetPlayerPed(player)
