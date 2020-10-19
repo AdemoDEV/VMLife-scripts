@@ -1,3 +1,16 @@
+
+
+<p align="center">
+<a href="https://badgen.net/github/release/AdemoDEV/VMLife-scripts"><img src="https://badgen.net/github/release/AdemoDEV/VMLife-scripts" alt="license"></a> 
+<a href="https://badgen.net/github/commits/AdemoDEV/VMLife-scripts"><img src="https://badgen.net/github/commits/AdemoDEV/VMLife-scripts" alt="license"></a> 
+<a href="https://badgen.net/github/last-commit/AdemoDEV/VMLife-scripts"><img src="https://badgen.net/github/last-commit/AdemoDEV/VMLife-scripts" alt="license"></a> 
+<a href="https://badgen.net/github/releases/AdemoDEV/VMLife-scripts"><img src="https://badgen.net/github/releases/AdemoDEV/VMLife-scripts" alt="license"></a> 
+</p>
+
+<p align="center">
+  <a href="http://hits.dwyl.com/AdemoDEV/VMLife-scripts"><img src="http://hits.dwyl.com/AdemoDEV/VMLife-scripts.svg"      alt="license"></a> 
+</p>
+
 # VMLife-scripts
 
 FiveM script :)
