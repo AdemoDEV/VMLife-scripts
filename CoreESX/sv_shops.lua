@@ -2,6 +2,8 @@ ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
+-----BY ADEMO
+
  RegisterServerEvent('Shops:item')
  AddEventHandler('Shops:item', function(item, price, count, cb)
  	local _source = source
@@ -14,3 +16,5 @@ TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
         TriggerClientEvent("esx:showNotification", source, "Vous n'avez pas assez ~r~d'argent")
      end
  end)
+
+-----BY ADEMO
