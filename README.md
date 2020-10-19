@@ -23,6 +23,8 @@ récemment je le partage donc avec vous
 
 ## Le discord de mon shops : https://discord.gg/wDtAnfd
 
+## Le discord de l'ACDN  : https://discord.gg/bPz8swn
+
 ## Le discord de leaks : https://discord.gg/FdXUDzD
 (pour avoir plus details et de script)
 --------------------------------------------------------------------------------------------------------------------
