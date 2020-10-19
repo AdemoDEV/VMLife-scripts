@@ -1,4 +1,4 @@
-
+-----BY ADEMO-----BY ADEMO
 RegisterNetEvent("Arme:Item")
 AddEventHandler("Arme:Item", function(weapon,price,Label,cb)
     local source = source
@@ -19,3 +19,5 @@ AddEventHandler("Arme:Item", function(weapon,price,Label,cb)
         end
     end
 end)
+
+-----BY ADEMO-----BY ADEMO-----BY ADEMO-----BY ADEMO
