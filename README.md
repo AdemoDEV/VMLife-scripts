@@ -1,7 +1,6 @@
 
 
 <p align="center">
-<a href="https://badgen.net/github/last-commit/AdemoDEV/VMLife-scripts"><img src="https://badgen.net/github/last-commit/AdemoDEV/VMLife-scripts" alt="license"></a> 
 <a href="https://badgen.net/github/releases/AdemoDEV/VMLife-scripts"><img src="https://badgen.net/github/releases/AdemoDEV/VMLife-scripts" alt="license"></a> 
 </p>
 
