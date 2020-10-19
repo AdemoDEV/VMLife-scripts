@@ -44,3 +44,7 @@ Video : https://streamable.com/2q4suz
       Fait avec mes propres soins + JIBRIL & YZK
 
 --------------------------------------------------------------------------------------------------------------------
+
+
+
+Preuve que l'on a commencer Vmlife il y'a 3-4mois  : https://cdn.discordapp.com/attachments/745651508866973706/767694853713952768/unknown.png
