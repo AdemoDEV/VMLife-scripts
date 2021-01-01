@@ -192,7 +192,7 @@ function openMenu()
                             end
                         end, RMenu:Get('inventory', 'sante'))
 
-                    if IsPedSittingInAnyVehicle(VM.Ped) then
+                     if IsPedSittingInAnyVehicle(PlayerPedId()) then
                         RageUI.ButtonWithStyle("Véhicule", "Menu de votre véhicule", {RightLabel = "→"}, true, function(Hovered,Active,Selected)
                             if Selected then
                                 end
