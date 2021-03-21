@@ -13,7 +13,7 @@ FiveM script :)
 ### You are not allowed to modify the repository and re-release it, you can only fork it
 
 Je partage ici sur ce repo le travaille que je me suis consacrée ces derniers mois .Je me suis fait volé ces scripts
-récemment je le partage donc avec vous 
+récemment je le partage donc avec vous (version pas complete)
 
 ## Vidéo de présentation : https://youtu.be/tZK4dY2ryrU
 
