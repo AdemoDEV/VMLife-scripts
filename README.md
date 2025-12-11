@@ -1,6 +1,12 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdemoDEV%2FVMLife-scripts&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.sh/github.com/AdemoDEV/VMLife-scripts/">
+  <img alt="Hits" src="https://hits.sh/github.com/AdemoDEV/VMLife-scripts.svg?style=flat-square&label=hits&color=%23C83D3D&labelColor=%23555555"/>
+</a>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdemoDEV%2FVMLife-scripts&count_bg=%231700FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.sh/github.com/AdemoDEV/VMLife-scripts/">
+  <img alt="Hits" src="https://hits.sh/github.com/AdemoDEV/VMLife-scripts.svg?style=flat-square&label=hits&color=%231700FF&labelColor=%23555555"/>
+</a>
+
+
 
 # UPDATE 20/04/2020 (Je previens ce code est mal il a était fait y'a longtemps voila merci 
 # VMLife-scripts : DISCORD IMPORTANT à REJOINDRE : https://discord.gg/3TDKutWT53
