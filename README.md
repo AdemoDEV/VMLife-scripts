@@ -1,10 +1,3 @@
-<a href="https://hits.sh/github.com/AdemoDEV/VMLife-scripts/">
-  <img alt="Hits" src="https://hits.sh/github.com/AdemoDEV/VMLife-scripts.svg?style=flat-square&label=hits&color=%23C83D3D&labelColor=%23555555"/>
-</a>
-
-<a href="https://hits.sh/github.com/AdemoDEV/VMLife-scripts/">
-  <img alt="Hits" src="https://hits.sh/github.com/AdemoDEV/VMLife-scripts.svg?style=flat-square&label=hits&color=%231700FF&labelColor=%23555555"/>
-</a>
 
 
 
